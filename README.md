@@ -47,7 +47,6 @@ It also includes admin features for viewing participant details and event statis
    java -cp src EventManagement
    ```
 
----
 
 ## 🧠 Program Overview
 
@@ -57,7 +56,6 @@ It also includes admin features for viewing participant details and event statis
    - Select Technical or Non-Technical events (or both)
    - View registration confirmation
 
----
 
 ## 👨‍💼 Admin Section
 
@@ -67,8 +65,7 @@ It also includes admin features for viewing participant details and event statis
    
       - 📋 List of registered participants
       - 📈 Event participation count summary
-    
-   ---
+
 
 ## 🏷️ Example Technical Events
 
@@ -91,8 +88,7 @@ It also includes admin features for viewing participant details and event statis
    💻 Java Developer
 
    “Code with purpose, create with passion.”
-   
-   ---
+
 
 ## 🪪 License
 
