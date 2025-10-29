@@ -26,19 +26,26 @@ It also includes admin features for viewing participant details and event statis
 **Clone the repository:**
    ```bash
    git clone https://github.com/gokul0152/EventManagement.git
+```
    
 2. Navigate to the project folder:
 
+   ```bash
    cd EventManagement
+   ```
 
 
-3. Compile the Java file:
+4. Compile the Java file:
 
+   ```
    javac src/EventManagement.java
+   ```
 
-4. Run the program:
+6. Run the program:
 
-   java -cp src EventManagement
+  ```
+  java -cp src EventManagement
+  ```
 
 ---
 
