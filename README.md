@@ -51,19 +51,15 @@ It also includes admin features for viewing participant details and event statis
 
 ## 🧠 Program Overview
 
-***
-
-👩‍🎓 User Section
-
-***
+## 👩‍🎓 User Section
 
    - Register with personal details (name, gender, phone, etc.)
    - Select Technical or Non-Technical events (or both)
    - View registration confirmation
 
-👨‍💼 Admin Section
+---
 
-***
+## 👨‍💼 Admin Section
 
    - Login with credentials (admin, password)
    
@@ -71,8 +67,10 @@ It also includes admin features for viewing participant details and event statis
    
       - 📋 List of registered participants
       - 📈 Event participation count summary
+    
+   ---
 
-🏷️ Example Technical Events
+## 🏷️ Example Technical Events
 
    - PPT
    - Workshops
@@ -80,25 +78,23 @@ It also includes admin features for viewing participant details and event statis
    - Robotics
    - Hackathon
 
-🏷️ Example Non-Technical Events
+## 🏷️ Example Non-Technical Events
 
    - Talent Shows
    - Quiz Contests
    - Craft Exhibitions
    - Debate Competitions
 
-🧑‍💻 Author
-
-***
+## 🧑‍💻 Author
 
    Gokulapriya G
    💻 Java Developer
 
    “Code with purpose, create with passion.”
+   
+   ---
 
 ## 🪪 License
-
-***
 
    - This project is developed for **educational purposes** as part of a learning and academic        exploration in Java programming.  
    - You are free to **use, modify, and share** this project with proper credit to the author.  
