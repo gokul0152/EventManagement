@@ -40,7 +40,9 @@ It also includes admin features for viewing participant details and event statis
 
    java -cp src EventManagement
 
-🧠 Program Overview
+---
+
+## 🧠 Program Overview
 
 👩‍🎓 User Section
 
